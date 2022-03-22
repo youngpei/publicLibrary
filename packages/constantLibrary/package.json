@@ -1,0 +1,18 @@
+{
+  "name": "constantlibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "unpkg": "dist/index.js",
+  "files": ["lib","dist","es"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup-plugin-json": "^4.0.0"
+  }
+}
