@@ -1,11 +1,15 @@
 {
   "name": "constantlibrary",
-  "version": "1.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "",
   "main": "lib/index.js",
   "module": "es/index.js",
   "unpkg": "dist/index.js",
-  "files": ["lib","dist","es"],
+  "files": [
+    "lib",
+    "dist",
+    "es"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup --config"
