@@ -14,9 +14,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup --config"
   },
-  "author": "",
+  "author": "youngpei<byangpei@126.com>",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "ISC",
   "devDependencies": {
     "rollup-plugin-json": "^4.0.0"
-  }
+  },
+  "gitHead": "9d6d66e24847767e6e2aa2ce329f7bea74acf70a"
 }

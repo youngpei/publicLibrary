@@ -1,12 +1,5 @@
-var version = "1.0.0";
+var version = "0.0.1-alpha.0";
 
-/*
- * @Author: yangp004
- * @LastEditors: yangp004
- * @Date: 2022-03-22 11:47:58
- * @LastEditTime: 2022-03-22 11:53:00
- * @Description: Modify here please
- */
 const gender = [{
   label: '男', value: 'M'
 }, {
@@ -15152,15 +15145,8 @@ const allAddress = [
     ]
   }];
 
-/*
- * @Author: yangp004
- * @LastEditors: yangp004
- * @Date: 2022-03-22 11:56:57
- * @LastEditTime: 2022-03-22 13:37:58
- * @Description: Modify here please
- */
 function transformArrayToObject () {
-  console.log('transformArrayToObject');
+  console.log('transformArrayToObject1');
 }
 
 export { allAddress, gender, transformArrayToObject, version };

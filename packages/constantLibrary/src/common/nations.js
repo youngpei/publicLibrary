@@ -1,10 +1,3 @@
-/*
- * @Author: yangp004
- * @LastEditors: yangp004
- * @Date: 2022-03-22 11:55:49
- * @LastEditTime: 2022-03-22 11:56:24
- * @Description: Modify here please
- */
 'use strict';
 
 //民族
